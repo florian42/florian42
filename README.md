@@ -6,9 +6,6 @@ I'm a developer living and working in Munich.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/florian-aumeier-b2373b191/)
 
 
-[![Florians's GitHub stats](https://github-readme-stats.vercel.app/api?username=florian42&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **florian42/florian42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
