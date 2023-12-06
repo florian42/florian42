@@ -4,7 +4,6 @@ I'm a developer living and working in Munich.
 
 - 🔭 I’m currently working on [einwert.com](https://einwert.com)
 - ⏲️ Previously worked on [data.bmw.com](https://data.bmw.com)
-- 🌱 I’m currently learning about react app architecture
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/florian-aumeier-b2373b191/)
 
 
